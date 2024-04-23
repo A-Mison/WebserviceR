@@ -1,0 +1,31 @@
+{
+    "personalInfo": {
+      "name": "Allen J. Mison",
+      "email": "regulark9cut@gmail.com",
+      "phone": "09503401517",
+      "location": "Brgy. Canhandugan Jaro, Leyte"
+    },
+    "skills": [
+      { "description": "HTML", "expertiseLevel": "Intermediate" },
+      { "description": "CSS", "expertiseLevel": "Intermediate" },
+      { "description": "JavaScript", "expertiseLevel": "Advanced" },
+      { "description": "React", "expertiseLevel": "Intermediate" },
+      { "description": "Node.js", "expertiseLevel": "Intermediate" }
+    ],
+    "achievements": [
+      "Web Developer - 2023",
+      "Frontend Developer - 2023"
+    ],
+    "education": [
+      { "school": "University of Southern Philippines Foundation", "year": "Bachelor's Degree in Information Technology, University of Southern Philippines Foundation" }
+    ],
+    "projects": [
+      "Project 1: Responsive Website for Client Jacobo",
+      "Project 2: E-commerce Platform Development"
+    ],
+    "activities": [
+      "Organizer, Local Web Development Meetup",
+      "Volunteer, Code for Change Allen"
+    ]
+  }
+  
